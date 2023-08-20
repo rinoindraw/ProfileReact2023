@@ -855,6 +855,11 @@
       background-color: #CDF0EA;
     }
 
+    nav.navbar.scrolled {
+      padding: 15px 0;
+      background-color: #CDF0EA;
+      }
+
     .skill-slider {
       max-width: 100%;
       margin: 0 auto;
