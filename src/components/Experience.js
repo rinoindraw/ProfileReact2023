@@ -10,7 +10,7 @@ export const Experience = () => {
       company: 'Bangkit Academy led by Google, Tokopedia, Gojek, & Traveloka',
       position: 'Mobile Development Student',
       duration: 'February 2023 - July 2023',
-      description: 'I have completed the mobile development learning path at an exclusive academy led by Google, Tokopedia, Gojek, and Traveloka. I enrolled in the Mobile Development track at Bangkit 2023, which offered places to only 5,010 students from over 67,000 interested applicants.',
+      description: 'I have completed the mobile development learning path in an exclusive Bangkit Academy led by Google, Tokopedia, Gojek, and Traveloka. I enrolled in the Mobile Development track at Bangkit 2023, which offered places to only 5,010 students from over 67,000 interested applicants.',
       logo: bangkitLogo,
       title: 'Bangkit Academy'
     },
