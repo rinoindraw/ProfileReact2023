@@ -6,8 +6,8 @@ import { Experience } from './components/Experience'
 import { Organization } from './components/Organization' 
 import { Achievements } from './components/Achievements' 
 import { Certificate } from './components/Certificate' 
-import {Skills} from './components/Skills'
-import {Projects} from './components/Projects'
+import {Skills} from './components/skills/Skills'
+import {Projects} from './components/projects/Projects'
 import {Footer} from './components/Footer'
 
 function App() {
@@ -17,9 +17,9 @@ function App() {
       <Banner />
       <Skills />
       <Experience />
-      <Organization />
-      <Achievements />
       <Projects />
+      <Achievements />
+      <Organization />
       <Certificate />
       <Footer />
     </div>
